@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Skip Button Clicker for YouTube™",
-  "version": "2023.11",
+  "version": "2024.11",
 
   "description": "Chrome extension that clicks skip buttons on skippable advertisements on YouTube™",
   "icons": {

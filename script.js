@@ -8,7 +8,7 @@ function setNewInterval() {
   clearInterval(intervalID);
 
   intervalID = setInterval(() => {
-    document.querySelector("button.ytp-ad-skip-button-modern")?.click();
+    document.querySelector("button.ytp-skip-ad-button")?.click();
   }, 1000);
 }
 
